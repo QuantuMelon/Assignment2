@@ -102,3 +102,8 @@ nav ul li ul li a:hover {
   margin: 10vh;
   text-align: center;
 }
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
